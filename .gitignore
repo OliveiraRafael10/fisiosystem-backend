@@ -1,0 +1,28 @@
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Banco H2 local
+data/
+
+# Eclipse / Spring Tools
+.classpath
+.project
+.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Arquivos de ambiente
+.env
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
